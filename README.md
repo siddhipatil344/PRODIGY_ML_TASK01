@@ -22,6 +22,3 @@ The dataset contains housing information such as:
 - Python  
 - Pandas  
 - Scikit-learn  
-
-## 🔗 GitHub Repository
-https://github.com/siddhipatil344/PRODIGY_ML_TASK01

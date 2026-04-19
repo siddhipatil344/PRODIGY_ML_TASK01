@@ -23,5 +23,5 @@ The dataset contains housing information such as:
 - Pandas  
 - Scikit-learn  
 
-## ▶️ How to Run
-1. Install required libraries:
+## 🔗 GitHub Repository
+https://github.com/siddhipatil344/PRODIGY_ML_TASK01
